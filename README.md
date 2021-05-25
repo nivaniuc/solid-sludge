@@ -2,6 +2,8 @@
 
 BUDGET TRACKER
 
+![IMAGE](https://github.com/nivaniuc/solid-sludge/blob/main/public/icons/budget-tracker.jpg)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Install](#install)
